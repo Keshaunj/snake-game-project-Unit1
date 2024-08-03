@@ -23,8 +23,8 @@ The game of Snake powered by: Html, CSS ,and Javascript
 
 In `script.js`, the following variables and constants are defined:
 
-
-- **`snake`**: An array representing the snake, with each segment having `x` and `y` coordinates.
+Found a helpful link for grid work [text](https://pinnguaq.com/learn/x-y-hide-and-seek-game/)
+- **`snake`**: An array representing the snake, with each segment having `x` and `y` coordinates.  
 - **`food`**: An object representing the food's position with `x` and `y` coordinates.
 - **`d`**: The direction of the snake's movement.
 
