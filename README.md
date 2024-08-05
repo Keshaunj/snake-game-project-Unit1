@@ -38,6 +38,7 @@ Found a helpful link for grid work [text](https://pinnguaq.com/learn/x-y-hide-an
 ## Functions
 
 - **`direction(event)`**: Updates the direction of the snake based on keyboard input.
+'testing'
 
 
 ## How to Play
