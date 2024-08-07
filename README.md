@@ -50,3 +50,5 @@ Found a helpful link for grid work [text](https://pinnguaq.com/learn/x-y-hide-an
 ## Strecth goals after I apply functionality make game nice and colorful with vivid hues
 like instuctor megan said using grid can  help because its like my tic-tac -toe game.
 
+## monday tuesday 6th
+- fixed syntax erros in my code and 

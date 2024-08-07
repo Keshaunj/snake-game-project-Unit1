@@ -6,23 +6,23 @@ left:{x:-1,y:0}
 right:{x:1,y:0}
 
 function mvfront(){
-     const directions mv.up
+     const directions =  mv.up
 }
 
 function mvdown(){
-     const directions mv.down
+     const directions = mv.down
 }
 
 function mvLeft(){
-    const directions mv.left
+    const directions = mv.left
 }
 function mvright(){
-     const directions mv.right
+     const directions = mv.right
 }
 
 
 /* let = snakeBody -------is my  snake have to figure out his lentgh and stuff next in <---- for my memory > */
-[Game Controllers - W3Schools](https://www.w3schools.com/graphics/game_controllers.asp)  <-- not copying but it helps my brain see visually like how my playstation controller would work left,right,up,down etc.I saw a way to controller speed might add that to my strecth goal call if i get functionality down packed. Hopefully I can use them as a refrence just asking would be pretty coolnif I can.>
+[Game Controllers - W3Schools](https://www.w3schools.com/graphics/game_controllers.asp)  <-- not copying but it helps my brain see visually like how my playstation controller would work left,right,up,down etc.I saw a way to controller speed might add that to my strecth goal call if i get functionality down packed. Hopefully I can use them as a refrence just asking would be pretty cool if I can.>
 
 ```js 
 /* INITIALIZE GAME
