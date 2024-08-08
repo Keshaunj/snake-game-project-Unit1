@@ -50,5 +50,15 @@ Found a helpful link for grid work [text](https://pinnguaq.com/learn/x-y-hide-an
 ## Strecth goals after I apply functionality make game nice and colorful with vivid hues
 like instuctor megan said using grid can  help because its like my tic-tac -toe game.
 
-## monday tuesday 6th
-- fixed syntax erros in my code and 
+## monday , tuesday 6th
+- fixed syntax erros in my code and added variables.
+
+## wednesday 7th
+
+- Instuctor Josh tutorial/examples[text]https://codesandbox.io/p/sandbox/dom-movement-demo-xls932
+Used the following above to help with setups and syntax .
+- updated constants and variablesn,adding a postion for the snake vairble into game.
+- adding event listeners to the arrow keys so that can work with the snakeBody.
+- have my snake moving was very hard to get right[text] https://stackoverflow.com/questions/70214154/trying-to-control-movement-in-a-game-with-arrow-keys-and-and-buttons-with-js
+https://youtube.com/playlist?list=PLyuRouwmQCjkuH93Mq8zgi8bybNjvDTu2&si=6qW5yFO5Ru6h_PtL aslo helped alot[text]
+- ps snakeis not moving in side the board so much correcting will be tommorow
