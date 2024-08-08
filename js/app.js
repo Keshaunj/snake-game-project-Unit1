@@ -21,6 +21,8 @@ function moveSnake(direction) {
      position.x += direction.x * stepSize;
      position.y += direction.y * stepSize;
 
+     
+/*--------------update postion 0 I think my snake is only operating in the x:0,-0,y:0,-0 axis meaning not postive up out of bounds up etc below*/
 
 /* makes my snake stay in the board fucntion */  
 if (position.x < 0) position.x = 0; // Prevent going left
