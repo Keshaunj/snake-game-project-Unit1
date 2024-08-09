@@ -62,3 +62,8 @@ Used the following above to help with setups and syntax .
 - have my snake moving was very hard to get right[text] https://stackoverflow.com/questions/70214154/trying-to-control-movement-in-a-game-with-arrow-keys-and-and-buttons-with-js
 https://youtube.com/playlist?list=PLyuRouwmQCjkuH93Mq8zgi8bybNjvDTu2&si=6qW5yFO5Ru6h_PtL aslo helped alot[text]
 - ps snakeis not moving in side the board so much correcting will be tommorow
+
+## thrusday 8th 2024
+- applied css style to my game becuase icouldnt resist it even the functionalty is not 100 percent
+- addded several snake food calleds eggs to the game, instructor josh helped me put my snakeBody inside the div which was a simple blocker but it held me back before fixed glad its fixed.
+- added a egg function make make eggs pop up but its not random still working on that. either later today or tommorow friday I should have the eggs dispapring and snakw growing function working.
