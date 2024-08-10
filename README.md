@@ -67,3 +67,8 @@ https://youtube.com/playlist?list=PLyuRouwmQCjkuH93Mq8zgi8bybNjvDTu2&si=6qW5yFO5
 - applied css style to my game becuase icouldnt resist it even the functionalty is not 100 percent
 - addded several snake food calleds eggs to the game, instructor josh helped me put my snakeBody inside the div which was a simple blocker but it held me back before fixed glad its fixed.
 - added a egg function make make eggs pop up but its not random still working on that. either later today or tommorow friday I should have the eggs dispapring and snakw growing function working.
+
+## friday 10th 2024
+- set up a snake grown function, fixed major bugs where eggs werent spawning.
+- changed colors of snake and eggs
+- really regret doing this snake game to much coding for little game
