@@ -72,3 +72,11 @@ https://youtube.com/playlist?list=PLyuRouwmQCjkuH93Mq8zgi8bybNjvDTu2&si=6qW5yFO5
 - set up a snake grown function, fixed major bugs where eggs werent spawning.
 - changed colors of snake and eggs
 - really regret doing this snake game to much coding for little game
+
+## friday- sunday 10th - 11th 2024
+- worked with instuctor to debug snake segments not rendering best told to remove growSnake().
+- changed my egg eating tolerance to 45. Its a good middle ground so the egg wouldnt be eaten if snake was nearby but no in exact postion to eat.
+- deleted console.logs and cleaned up the pusedo code 
+- applied css and background image
+- added a cool hover feature where when your cusor is over the restart button it has opacity!
+- created my how to video

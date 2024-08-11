@@ -7,8 +7,10 @@
     position: relative;
     transform: translateY(100px);
     display: grid;
-   /* grid-template-columns:repeat(7,1);
-    grid-template-rows:repeat(7,1);*/
+    background-image: url('https://wallpapers.com/images/high/snake-game-loading-screen-9po4zuz368r8u1cg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
@@ -28,9 +30,70 @@
 .egg {
     width: 40px;
     height: 40px;
-    background-color: white;
+    
     border-radius: 20px;
     z-index: 1;
     position: absolute;
+}
+
+.rubik-mono-one-regular {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 37px;
+    color: brown;
+  }
+  body {
+    background-image: url('https://cache.desktopnexus.com/cropped-wallpapers/2016/2016165-2560x1440-[DesktopNexus.com].jpg?st=2folmGGr7xExW-E9TK3Vgw&e=1723386124');
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+    margin: 0; 
+    padding: 0; 
+
+
+  }
+  h3{
+    text-align: center
+    ;
+  }
+  #myColor{
+    color: rgb(232, 16, 182);
+  }
+  #howToPlay {
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    background-color: rgba(34, 30, 30, 0.7); 
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block; 
+    position: relative;
+    width: 100%; 
+    box-sizing: border-box; 
+  }
+
+.restart-button {
+    display: block;
+    margin: 20px auto; 
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    color: white;
+    background-color: #333; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.restart-button:hover {
+    background-color: 
+    rgba(34, 30, 30, 0.7); 
+   
 }
 

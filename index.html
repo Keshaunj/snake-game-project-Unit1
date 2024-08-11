@@ -1,19 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css"/>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cannibal Snake</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/style.css" />
     <script defer src="js/app.js"></script>
-    <title>Document</title>
-</head>
-<body>
+  </head>
+  <body>
+    <h1 class="rubik-mono-one-regular">Cannibal Snake</h1>
+    <h2 class="rubik-mono-one-regular">
+      You're a bad snake eating your own eggs
+    </h2>
+    <h3 class="rubik-mono-one-regular" id="myColor">Dont Be Hypnotized </h3>
+
     <div id="board">
-        
-        <div id="snakebody" class="snake-segment" style="position: absolute; width: 100px; height: 100px; background-color: skyblue; left: 0px; top: 0px;"></div>
-            
-            <div class="egg"></div>
+      <div
+        id="snakebody"
+        class="snake-segment"
+        style="
+          position: absolute;
+          width: 100px;
+          height: 100px;
+          background-color: rgb(232, 16, 182);
+          left: 0px;
+          top: 0px;
+        "
+      ></div>
+      <div class="egg"></div>
     </div>
-    
-</body>
+    <h4 id="howToPlay" class="rubik-mono-one-regular">
+        Use the arrow keys to move the snake!
+    </h4>
+    <button id="restartButton" class="restart-button">Restart Game</button>
+  </body>
 </html>
